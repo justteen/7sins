@@ -1,8 +1,8 @@
 # 7sins
 Discord Music Bot
 
-<h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Thanks for 25k Views with 500 subs!</p>
+<img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="center" width="200" height="200"/>
+<p align="center">Thanks for Support!</p>
 
 ## 🚧 Prerequisites
 
