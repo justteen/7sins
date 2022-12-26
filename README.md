@@ -1,7 +1,7 @@
 # 7sins
 Discord Music Bot
 
-<img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="center" width="200" height="200"/>
+<p align="center"><img src="https://telegra.ph/file/ffcf11e6177faa23ba613.jpg" align="center" width="200" height="200"/></p>
 <p align="center">Thanks for Support!</p>
 
 ## 🚧 Prerequisites
