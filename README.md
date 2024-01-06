@@ -1,5 +1,5 @@
 # 7sins
-Discord Music Bot
+7Sins AI Bot
 
 <p align="center"><img src="https://telegra.ph/file/d56d26a1a37575986efa9.jpg" align="center" width="200" height="200"/></p>
 <p align="center">Thanks for Support!</p>
