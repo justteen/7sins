@@ -10,7 +10,7 @@ Discord Music Bot
 - [discord.js@12.5.3](https://www.npmjs.com/package/discord.js/v/12.5.3)
 - [Lavalink Server](https://darrennathanael.com/post/how-to-lavalink/?utm_source=github-sudhanplayz&utm_medium=readme&utm_campaign=sudhanplayz&utm_content=lavalink-prerequisites)
 
-> NOTE: Lavalink is needed for music functionality. You need to have a working Lavalink server to make the bot work.
+> NOTE: Lavalink is needed for bot functionality. You need to have a working Lavalink server to make the bot work.
 
 
 ## 📸 Screenshots
